@@ -4,7 +4,6 @@
 This project applies **advanced machine learning and explainable AI (XAI)** — including **Fractal Clustering**, **Golden Cluster Optimization**, **Müller Loop Analysis**, and **SHAP Explainability** — to identify **profitable real estate investments** ensuring positive cash flow and long-term appreciation.
 
 ---
-📘 **Notebook:** [RealEstate_Midterm_Template.ipynb](./RealEstate_Midterm_Template.ipynb)  
 💻 **Run it on Colab:** [Click here to open in Google Colab](https://colab.research.google.com/drive/13pt5pRu2Qpr8nFTnTPaBnfTW3RwmazEY#scrollTo=SuJfCyID2Vlw)
 
 ---
